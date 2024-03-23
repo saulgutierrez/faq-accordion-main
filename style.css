@@ -19,6 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     background: url('assets/images/background-pattern-desktop.svg') no-repeat;
+    background-color: #f9eeff;
 }
 
 main {
